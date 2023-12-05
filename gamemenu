@@ -89,9 +89,9 @@
     },
     "Game Menu": [
         {
-            "text": "Dage's Birthday",
+            "text": "AQW Proxy!",
             "strAction": "/Join",
-            "strString": "dagerecruit",
+            "strString": "yulgar",
             "strFrame": "Enter",
             "strPad": "Spawn",
             "ico": "crossedswords",
